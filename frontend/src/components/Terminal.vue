@@ -337,7 +337,6 @@ export default {
 <style scoped lang="scss">
 .main-terminal {
     height: 100%;
-    overflow-x: scroll;
 }
 
 .wide-terminal {
